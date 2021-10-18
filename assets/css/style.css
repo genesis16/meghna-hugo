@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #353b43;
+  background-color:#353b43;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #ffffff;
 }
 
 p {
@@ -141,7 +141,7 @@ a:hover {
 }
 
 .color {
-  color: #6CB670;
+  color: rgb(169,201,232);
 }
 
 .sub-title {
@@ -219,7 +219,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: rgb(169,201,232);
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: rgb(169,201,232);
 }
 
 .title p {
@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #1d2024;
+  background-color: #000000;
   width: 100%;
   margin-bottom: 0;
 }
@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #57cbcc;
+  color: rgb(169,201,232);
 }
 
 .navbar-toggler:focus {
@@ -555,7 +555,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid rgb(169,201,232);
 }
 
 .about .block:hover .icon-box {
@@ -820,7 +820,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #57cbcc;
+  color: rgb(169,201,232);
   font-size: 30px;
 }
 
@@ -870,7 +870,7 @@ a:hover {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #57cbcc;
+  border-color:rgb(169,201,232);
 }
 
 .portfolio-block {
@@ -975,7 +975,7 @@ a:hover {
 
 .service-2 .service-item:hover i {
   background: #fff;
-  color: #57cbcc;
+  color: rgb(169,201,232)
 }
 
 .service-2 .service-item i {
@@ -1014,7 +1014,7 @@ a:hover {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #57cbcc;
+  background:rgb(169,201,232);
 }
 
 /*=================================================================
